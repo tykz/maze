@@ -221,6 +221,7 @@ namespace maze
             m.generate_nodes();
             m.find();
             m.save(out_file);
+            //くぁｗせｄｒｆｔｇｙふじこｌｐ；＠：「」
         }
     }
 }
